@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import Header from "./components/landing/header";
+import Header from "../components/landing/header";
 import { Open_Sans, Raleway } from "next/font/google";
 
 export const openSans = Open_Sans({
